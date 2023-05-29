@@ -1,4 +1,3 @@
-# FirstOpenSourceContribution
 
 # First Contributions
 
